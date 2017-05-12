@@ -45,7 +45,7 @@ gem 'sdoc', '~> 0.4.0', group: :doc
 
 # authenticaiton
 gem 'devise', '~> 3.4.1'
-gem 'omniauth', '1.2.2'
+gem 'omniauth', '1.6.1'
 gem 'omniauth-facebook', '2.0.1'
 
 # form
