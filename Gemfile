@@ -119,7 +119,6 @@ gem 'seed-fu'
 
 # ADD S.Kawano
 gem 'net-ssh'
-gem 'rspec', '~> 3.6'
 
 group :development, :test do
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console
@@ -137,7 +136,7 @@ group :development, :test do
   gem 'terminal-notifier-guard', '1.6.4'
 
   # test framework
-  gem 'rspec-rails', '3.2.1'
+  gem 'rspec-rails', '3.6.0'
   gem 'factory_girl_rails', '4.5.0'
   gem 'database_rewinder', '0.5.1'
   gem 'faker', '1.4.3'
