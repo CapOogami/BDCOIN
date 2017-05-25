@@ -51,5 +51,6 @@ module AirbnbClone
       g.controller_specs true
       g.view_specs false
     end
-	end
+
+  end
 end
